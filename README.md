@@ -3,9 +3,9 @@
 - 👀 I’m interested in sotware development
 - 🧑‍💻 I'm currently learning frontend development
 - 🎯 I’m looking to collaborate on ambitious projects with innovation and a high degree of impact
-- 📫 How to reach me 
+- How to reach me 
   - <img src="https://cdn.worldvectorlogo.com/logos/whatsapp-symbol.svg" width=20 height=20> +(57) 3127599006 
-  - <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f4e9.png" width=20 height=20> jorgedevops20@gmail.com
+  - <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width=20 height=20> jorgedevops20@gmail.com
 
  # Technologies learned
   <div style="display:flex;width:100%">
